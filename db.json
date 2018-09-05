@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 9
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 11
     },
     {
       "id": 3,
@@ -40,13 +40,25 @@
       "id": 7,
       "name": "Hamm",
       "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "likes": 2
     },
     {
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": 3
+    },
+    {
+      "likes": 4,
+      "name": "Emperor Zurg",
+      "image": "https://vignette.wikia.nocookie.net/disney-infinity/images/5/5f/ZURGPROMOART.png/revision/latest?cb=20131014174628",
+      "id": 9
+    },
+    {
+      "likes": 3,
+      "name": "Jessie",
+      "image": "https://vignette.wikia.nocookie.net/disney/images/7/7a/Jessie.png/revision/latest?cb=20131106225109",
+      "id": 10
     }
   ]
 }
